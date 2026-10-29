@@ -24,3 +24,22 @@ Proyecto académico para desarrollar una aplicación web de gestión de un video
 - Navegador web.
 - Editor de código.
 - Acceso al repositorio de GitHub.
+
+## Instalación
+
+Consultar la [guía de instalación](docs/instalación.md).
+
+## Configuración
+
+Consultar la [guía de configuración](docs/configuración.md).
+
+## Funcionamiento
+
+Consultar la [guía de funcionamiento](docs/funcionamiento.md).
+
+## Estructura del proyecto
+
+- `peliculas/`: archivos relacionados con el listado de películas.
+- `formularios/`: archivos relacionados con los formularios.
+- `docs/`: documentación del proyecto.
+- `README.md`: información general.
