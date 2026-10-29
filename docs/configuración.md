@@ -1,3 +1,5 @@
+Ejemplo de modificación de archivo
+
 # Guía de configuración
 
 ## Configuración de Git
